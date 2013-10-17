@@ -6,3 +6,4 @@ take a git repo that uses deploy tags to mark production deploys and print out t
 tags need to be in the format "production_deploy_2013_09_30-14_04"
 
 you'll have to look at the code to figure out what gems need installed, eg the git gem.
+ 
